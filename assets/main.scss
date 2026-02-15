@@ -1,0 +1,33 @@
+---
+---
+@import "minima";
+
+div.wrapper {
+  max-width: 960px;
+  margin-left: 5%;
+}
+
+div.post-content > p {
+  width: 65%;
+  max-width: 640px;
+}
+
+/* Sidebar TOC styling */
+nav.toc {
+  float: right;
+  width: 30%;
+  max-width: 320px;
+  margin-top: -100px;
+}
+
+nav.toc ul {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+
+nav.toc {
+  position: sticky;
+  top: 100px;
+}
