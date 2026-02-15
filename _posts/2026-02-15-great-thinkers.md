@@ -5,7 +5,10 @@ date:   2026-02-15 21:40:00 +0530
 categories: 
 ---
 
+* Table of Contents
+{:toc}
 
+## Introduction
 When we think of great contributors to law and justice, we often imagine successful courtroom lawyers. However, history shows us something very different. Some of the most influential thinkers in law and political justice were not successful practicing lawyers.
 
 Jeremy Bentham, John Austin, and Mahatma Gandhi are powerful examples of this truth.
