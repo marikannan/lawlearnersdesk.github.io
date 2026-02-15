@@ -29,6 +29,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# 2026-02-16 : added to genete for table of contents
+kramdown:
+  toc_levels: 1..6
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
