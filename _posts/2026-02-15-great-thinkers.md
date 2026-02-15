@@ -3,15 +3,18 @@ layout: post
 title: "Great Thinkers - Law and Justice"
 date:   2026-02-15 21:40:00 +0530
 categories: 
+
+excerpt: >
+Great Thinkers, Not Always Great Lawyers. Inspiration from Bentham, Austin, and Gandhi. When we think of great contributors to law and justice, we often imagine successful courtroom lawyers. However, history shows us something very different.
 ---
 
-<nav class="toc" markdown="1">
 * Table of Contents
 {:toc}
-</nav>
 
-## Introduction
-Great Thinkers, Not Always Great Lawyers: Inspiration from Bentham, Austin, and Gandhi. When we think of great contributors to law and justice, we often imagine successful courtroom lawyers. However, history shows us something very different. Some of the most influential thinkers in law and political justice were not successful practicing lawyers. Jeremy Bentham, John Austin, and Mahatma Gandhi are powerful examples of this truth.
+Great Thinkers, Not Always Great Lawyers. Inspiration from Bentham, Austin, and Gandhi. When we think of great contributors to law and justice, we often imagine successful courtroom lawyers. However, history shows us something very different. Some of the most influential thinkers in law and political justice were not successful practicing lawyers. Jeremy Bentham, John Austin, and Mahatma Gandhi are powerful examples of this truth.
+
+* Table of Contents
+{:toc}
 
 ## Jeremy Bentham: The Philosopher of Utility
 
