@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-About – Law Learner’s Desk
+Law Learner’s Desk
 ===
 
 Law Learner’s Desk is a dedicated learning space built for students, young professionals, and anyone passionate about understanding the law. Our mission is simple: to make legal learning accessible, structured, and engaging.
