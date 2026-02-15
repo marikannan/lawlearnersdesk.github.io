@@ -10,15 +10,11 @@ When we think of great contributors to law and justice, we often imagine success
 
 Jeremy Bentham, John Austin, and Mahatma Gandhi are powerful examples of this truth.
 
----
-
 ## Jeremy Bentham: The Philosopher of Utility
 
 Jeremy Bentham never became a successful legal practitioner. He found courtroom practice dull and restrictive. Yet, his ideas transformed the entire legal world.
 
 Bentham introduced the principle of **“the greatest happiness of the greatest number”**, which laid the foundation of **Utilitarianism**. His critique of outdated laws inspired major legal reforms in England and beyond. Bentham proved that deep thinking and reformist ideas can matter more than courtroom victories.
-
----
 
 ## John Austin: The Teacher Who Defined Law
 
@@ -26,15 +22,11 @@ John Austin trained as a lawyer but failed to establish himself in legal practic
 
 Austin developed the **Command Theory of Law**, defining law as commands backed by sanctions from a sovereign. Though his lectures were not popular during his lifetime, his ideas later became central to **Analytical Jurisprudence**. Austin shows us that impact is not always immediate, but lasting ideas eventually find their place.
 
----
-
 ## Mahatma Gandhi: The Lawyer Who Chose a Higher Court
 
 Mahatma Gandhi openly admitted that he was a shy and unsuccessful lawyer in India. Even in South Africa, his legal practice did not make him wealthy or famous.
 
 Yet, Gandhi transformed the meaning of justice through **truth (Satya)** and **non‑violence (Ahimsa)**. He used law not as a profession but as a tool for social change. His life reminds us that justice is not only argued in courts but lived in society.
-
----
 
 ## A Common Thread: Failure That Became Strength
 
@@ -43,8 +35,6 @@ What unites Bentham, Austin, and Gandhi is not legal success, but **moral courag
 They teach us an important lesson:
 
 > **You do not need to succeed in a profession to transform it.**
-
----
 
 ## Conclusion
 
