@@ -13,9 +13,6 @@ Great Thinkers, Not Always Great Lawyers. Inspiration from Bentham, Austin, and 
 
 Great Thinkers, Not Always Great Lawyers. Inspiration from Bentham, Austin, and Gandhi. When we think of great contributors to law and justice, we often imagine successful courtroom lawyers. However, history shows us something very different. Some of the most influential thinkers in law and political justice were not successful practicing lawyers. Jeremy Bentham, John Austin, and Mahatma Gandhi are powerful examples of this truth.
 
-* Table of Contents
-{:toc}
-
 ## Jeremy Bentham: The Philosopher of Utility
 
 Jeremy Bentham never became a successful legal practitioner. He found courtroom practice dull and restrictive. Yet, his ideas transformed the entire legal world.
