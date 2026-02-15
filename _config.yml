@@ -29,9 +29,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# 2026-02-16 : added to genete for table of contents
+# 2026-02-16 : added to generate for table of contents
 kramdown:
   toc_levels: 1..6
+
+# 2026-02-16 : added to fix the date issue. for all posts same date is shown in index/home
+timezone: Asia/Kolkata
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
