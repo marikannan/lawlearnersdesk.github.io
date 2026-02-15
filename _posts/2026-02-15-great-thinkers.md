@@ -4,7 +4,8 @@ title: "Great Thinkers - Law and Justice"
 date:   2026-02-15 21:40:00 +0530
 categories: 
 ---
-*Table of Contents
+
+* Table of Contents
 {:toc}
 
 ## Introduction
