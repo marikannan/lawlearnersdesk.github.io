@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Great Thinkers, Not Great Lawyers: Inspiration from Bentham, Austin, and Gandhi"
-date:   2026-02-15 21:20:00 +0530
+date:   2026-02-15 21:40:00 +0530
 categories: 
 ---
 
