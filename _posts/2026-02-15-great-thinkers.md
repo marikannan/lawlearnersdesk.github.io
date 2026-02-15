@@ -3,9 +3,8 @@ layout: post
 title: "Great Thinkers - Law and Justice"
 date:   2026-02-15 21:40:00 +0530
 categories: 
-
 excerpt: >
-Great Thinkers, Not Always Great Lawyers. Inspiration from Bentham, Austin, and Gandhi. When we think of great contributors to law and justice, we often imagine successful courtroom lawyers. However, history shows us something very different.
+    Great Thinkers, Not Always Great Lawyers. Inspiration from Bentham, Austin, and Gandhi. When we think of great contributors to law and justice, we often imagine successful courtroom lawyers. However, history shows us something very different.
 ---
 
 * Table of Contents
