@@ -1,0 +1,10 @@
+// {
+//     "editor.wordWrap": "wordWrapColumn",
+//     "editor.wordWrapColumn": 80,
+//     "editor.rulers": [80],
+//     //"editor.scrollbar.horizontal": "hidden",
+//     "editor.minimap.enabled": false,
+//     "workbench.colorTheme": "Quiet Light",
+//     "editor.defaultFormatter": null,
+//     "editor.minimap.maxColumn": 120
+// }
