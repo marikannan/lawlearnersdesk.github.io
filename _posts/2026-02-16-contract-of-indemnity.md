@@ -8,19 +8,32 @@ excerpt: >
 ---
 
 * Table of Contents
-{:toc}
+  {:toc}
 
 ## Introduction
+
 ## Meaning
+
 ## Definition and Nature
+
 ## Provisions
+
 ### Indian Contract Act
-#### Sec 124 - Definition 
+
+#### Sec 124 - Definition
+
 #### Sec 125 - Rights
+
 ## Essentials
+
 ## Case Laws
+
 ### Case Law No. 1 : Adamson v. Jarvis ( 1827 )
+
 ### Case Law No. 2 : Secy of State v. Bank of India Ltd ( 1938 )
+
 ## When Indemnifier Liable ?
+
 ### Case Law No. 3 : Gajanan Moreshwar v. Moreshwar Madan ( 1942 )
+
 ## Conclusion
